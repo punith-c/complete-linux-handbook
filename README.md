@@ -1950,7 +1950,3 @@ Found a mistake, or want to add a command you rely on daily? Contributions are w
 ## 📄 License
 
 This guide is free to use, share, and adapt. If you found it useful, a ⭐ on the repo is always appreciated.
-
----
-
-<p align="center">Made with ☕ and a lot of terminal windows.</p>
